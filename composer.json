@@ -1,0 +1,12 @@
+{
+    "name": "serjdev/php-python-bot",
+    "description": "Многопоточный бот для ВКонтакте на PHP на основе Python обработчика",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Serj",
+            "email": "serjfrog@gmail.com"
+        }
+    ],
+    "require": {}
+}
