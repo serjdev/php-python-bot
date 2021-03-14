@@ -12,16 +12,5 @@
     ],
     "require": {
 		"php": ">=8.0"
-	},
-    "minimum-stability": "dev",
-    "repositories": {
-        "0": {
-            "type": "composer",
-            "url": "https://github.com/serjdev/php-python-bot.git"
-        },
-        "php-python-bot": {
-            "type": "git",
-            "url": "https://github.com/serjdev/php-python-bot.git"
-        }
-    },
+	}
 }
