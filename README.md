@@ -1,4 +1,5 @@
-### Многопоточность PHP / Python
+![alt text](https://serjdev.ru.com/php-py.png)
+
 
 <p align="center">
     <a href="https://packagist.org/packages/serjdev/php-python-bot"><img alt="Total Downloads" src="https://poser.pugx.org/serjdev/php-python-bot/downloads"></a>
