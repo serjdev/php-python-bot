@@ -2,6 +2,8 @@
     "name": "serjdev/php-python-bot",
     "description": "Многопоточный бот для ВКонтакте на PHP на основе Python обработчика",
     "version": "0.1",
+    "type": "library",
+    "minimum-stability":"dev",
     "license": "MIT",
     "authors": [
         {
