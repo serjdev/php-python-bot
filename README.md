@@ -1,11 +1,7 @@
 ![alt text](https://serjdev.ru.com/php-py.png)
 
 
-<p align="center">
-    <a href="https://packagist.org/packages/serjdev/php-python-bot"><img alt="Total Downloads" src="https://poser.pugx.org/serjdev/php-python-bot/downloads"></a>
-    <a href="https://packagist.org/packages/serjdev/php-python-bot"><img alt="Latest Stable Version" src="https://poser.pugx.org/serjdev/php-python-bot/v/stable"></a>
-    <a href="https://packagist.org/packages/serjdev/php-python-bot"><img alt="License" src="https://poser.pugx.org/serjdev/php-python-bot/license"></a>
-</p>
+[![Latest Stable Version](https://poser.pugx.org/serjdev/php-python-bot/v)](//packagist.org/packages/serjdev/php-python-bot) [![Total Downloads](https://poser.pugx.org/serjdev/php-python-bot/downloads)](//packagist.org/packages/serjdev/php-python-bot) [![Latest Unstable Version](https://poser.pugx.org/serjdev/php-python-bot/v/unstable)](//packagist.org/packages/serjdev/php-python-bot) [![License](https://poser.pugx.org/serjdev/php-python-bot/license)](//packagist.org/packages/serjdev/php-python-bot)
 
 # Установка скрипта
 ```shell
