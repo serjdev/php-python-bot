@@ -5,7 +5,7 @@
 
 # Установка скрипта
 ```shell
-$ git clone https://github.com/serjdev/php-python-bot
+$ git clone https://github.com/frogserj/php-python-bot
 ```
 
 # Установка зависимостей
